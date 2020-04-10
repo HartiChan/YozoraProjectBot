@@ -1,1 +1,2 @@
 # YozoraProjectBot
+Julia Telegram chatbot
